@@ -3,7 +3,7 @@
 
 Bienvenidos al curso de Administración de Servidores 2020.
 
-Les indico como leer el contenido:
+Les indico como leer el contenido://
 1ro -  Leer el documento "Qué es un SysAdmin"
 2do - Realizar el TP Nº 1
 3ro - Leer el documento "Tipos de Servidores"
